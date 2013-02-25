@@ -1,0 +1,16 @@
+{
+  "name": "MiogenJS",
+  "description": "Miogen Hypermedia Server",
+  "version": "0.0.1",
+  "author": {
+    "name": "Martin Adams"
+  },
+  "dependencies": {},
+  "scripts": {
+  },
+  "_id": "MiogenJS@0.0.1",
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
